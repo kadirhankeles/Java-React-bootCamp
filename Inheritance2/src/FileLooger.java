@@ -1,0 +1,7 @@
+
+public class FileLooger extends Logger {
+	@Override
+	public void log() {
+		System.out.println("File Loglandı");
+	}
+}
